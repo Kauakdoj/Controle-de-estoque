@@ -1,0 +1,1 @@
+Aqui está sendo executada a construção de um sistema de controle de estoque
